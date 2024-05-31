@@ -40,7 +40,7 @@ Rome, Italy
 **Aquagift** - Startup
 Rome, Italy
 **Co-Founder & CTO**
-05/2023 - ongoing/ On Hold
+05/2023 - On Hold
 - Developed within LVenture and LUISS, aims to provide free water by covering costs through advertising, emphasizing sustainability and ensuring access to essential resources. As CTO, I lead technical and marketing strategies to achieve our mission:
   - Spearheading sustainable technology solutions and strategies to ensure mission alignment with sustainability principles and resource accessibility.
   - Leading comprehensive technical and marketing strategy development and execution.
