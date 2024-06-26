@@ -3,7 +3,7 @@ Developer
 
 ---
 
-+39 3343459442 • [amema@student.42roma.it](mailto:amema@student.42roma.it) • [linkedin.com/in/animema](https://www.linkedin.com/in/animema/) • [github.com/amema42](https://github.com/amema42)
++39 3343459442 • [amema@student.42roma.it](mailto:amema@student.42roma.it) • [linkedin](https://www.linkedin.com/in/animema/) • [github](https://github.com/amema42)
 
 ---
 
